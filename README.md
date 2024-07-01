@@ -1,5 +1,7 @@
 # Fashion MNIST Classification Project
 
+Check out the full explanation of the project in English in (this Medium article)[https://medium.com/@zeynepsoyan/ml-classification-with-fashion-mnist-a-comparison-of-algorithms-58008e1b29a5]
+
 ## Veri Seti Hakkında
 Bu proje, Keras kütüphanesinde sağlanan Fashion MNIST veri seti üzerine kurulmuştur. Fashion MNIST, kıyafet görüntülerinden oluşan bir veri setidir ve 10 farklı sınıfa sahiptir:
 
